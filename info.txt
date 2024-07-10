@@ -1,0 +1,10 @@
+// dev ops
+git init --- intialize the git repo
+// working directory ---- staging ---- local Repository -- Cloud
+//git status 
+(red - not tracked / green - tracked)
+git add . / git add script2.js
+git add fileName
+git commit -m "loginfeature"
+git log -     all commits
+git show HEAD  -- latest
